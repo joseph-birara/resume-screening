@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+.env
+package-lock.json
+
+# MongoDB
+dump/
+data/
+
+# Logs
+logs/
+*.log
+
+# Build files
+dist/
+build/
